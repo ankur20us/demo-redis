@@ -1,0 +1,14 @@
+{
+  "name": "demo-redis",
+  "version": "1.0.0",
+  "description": "This is just a demo to connect to redis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ankur Verma",
+  "license": "ISC",
+  "dependencies": {
+    "redis": "^2.7.1"
+  }
+}
